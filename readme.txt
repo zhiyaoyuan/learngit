@@ -8,3 +8,4 @@ Test merge with the branch of dev.
 [second]
 Creating a new branch is quick and simple.
 Test merge with the branch of dev.
+Add content from yzy branch.
